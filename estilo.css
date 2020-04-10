@@ -1,0 +1,12 @@
+body{
+    background-color: #d3d3d3;
+}
+
+footer{
+    background-color: lightslategrey;
+    width: 100%;
+    bottom: 0;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    position: absolute;}
